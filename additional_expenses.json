@@ -1,0 +1,32 @@
+[
+    {
+        "date": "01.01.2026",
+        "category": "Fahrzeug & Mobilität",
+        "description": "Granger 3700LX (Auto)",
+        "amount": 35500.00
+    },
+    {
+        "date": "01.01.2026",
+        "category": "Fahrzeug & Mobilität",
+        "description": "Warrener",
+        "amount": 3000.00
+    },
+    {
+        "date": "01.01.2026",
+        "category": "Einkäufe & Material",
+        "description": "Verbandskästen + Verpflegung (Kombiniert)",
+        "amount": 10000.00
+    },
+    {
+        "date": "01.01.2026",
+        "category": "Sonstige Ausgaben",
+        "description": "Ausgaben für Informanten und gekaufte Bilder",
+        "amount": 1800.00
+    },
+    {
+        "date": "01.01.2026",
+        "category": "Einkäufe & Material",
+        "description": "Investigativ Kleidung (Thriftshop)",
+        "amount": 5000.00
+    }
+]

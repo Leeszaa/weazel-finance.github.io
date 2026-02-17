@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weazel News - Kontoübersicht</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Weazel News Finanzen</h1>
+            <nav class="main-nav">
+                <button class="nav-btn active" data-tab="dashboard">Dashboard</button>
+                <button class="nav-btn" data-tab="income">Einnahmen</button>
+                <button class="nav-btn" data-tab="expenses">Ausgaben</button>
+                <button class="nav-btn" data-tab="salaries">Gehälter</button>
+                <button class="nav-btn" data-tab="calculation">Hypothetisches Szenario (Lohn an Alice & Luke)</button>
+                <button class="nav-btn" data-tab="monthly">Monatsbericht</button>
+                <button class="nav-btn" data-tab="additional">Zusätzliche Ausgaben</button>
+                <button class="nav-btn" data-tab="transactions">Alle Transaktionen</button>
+            </nav>
+        </header>
+
+        <main id="dashboard-view" class="view-section active">
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Aktueller Kontostand</h3>
+                    <p id="dash-net">0.00 $</p>
+                    <small>Real auf dem Konto.<br>(Einnahmen - Ausgaben + Einlagen)</small>
+                </div>
+                <div class="stat-card">
+                    <h3>Reingewinn (Operativ)</h3>
+                    <p id="dash-net-no-equity">0.00 $</p>
+                    <small>Geschäftserfolg ohne Hilfe.<br>(Einnahmen - Ausgaben - Einlagen)</small>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>Personalkosten</h3>
+                    <p id="dash-salaries" class="negative">0.00 $</p>
+                    <small>Summe aller Löhne über Bank.</small>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>Kapitalspritzen</h3>
+                    <p id="dash-equity" class="positive">0.00 $</p>
+                    <small>Private Einzahlungen auf Bankkonto.</small>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>Private Sachinvestitionen</h3>
+                    <p id="dash-additional" class="negative">0.00 $</p>
+                    <small>Käufe von Privatgeld für Firma.<br>(Autos, Material etc.)</small>
+                </div>
+                
+                <div class="stat-card">
+                    <h3>Bilanz (Inkl. Privatkäufe)</h3>
+                    <p id="dash-net-adjusted">0.00 $</p>
+                    <small>Wie steht die Firma wirklich da?<br>(Reingewinn Operativ - Private Sachinvestitionen)</small>
+                </div>
+                
+                <div class="stat-card" style="border-left: 4px solid #f59e0b;">
+                    <h3>Szenario: Vollkosten</h3>
+                    <p id="dash-hypo-profit" style="color: #f59e0b;">0.00 $</p>
+                    <small>Bilanz, wenn alle Gehälter voll gezahlt wären.<br>(Bilanz - offene Gehaltsansprüche)</small>
+                </div>
+            </div>
+            
+            <p class="description">
+                Übersicht der finanziellen Entwicklung von Weazel News. Die Diagramme zeigen den Verlauf des Kontostands und des operativen Ergebnisses über die letzten 12 Monate.
+            </p>
+
+            <div class="chart-container">
+                <canvas id="mainChart"></canvas>
+            </div>
+
+            <div class="breakdown-grid" style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-top: 2rem;">
+                <div class="stat-card">
+                    <h3>Einnahmen nach Kategorie</h3>
+                    <div style="height: 300px; position: relative;">
+                        <canvas id="incomeChart"></canvas>
+                    </div>
+                </div>
+                <div class="stat-card">
+                    <h3>Ausgaben nach Kategorie</h3>
+                    <div style="height: 300px; position: relative;">
+                        <canvas id="expenseChart"></canvas>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <main id="income-view" class="view-section" style="display: none;">
+            <div class="controls">
+                <p class="description">Woher kommt unser Geld? Hier sehen Sie alle Einnahmequellen im Detail. Nutzen Sie den Filter, um z.B. nur Werbeeinnahmen oder Event-Tickets anzuzeigen.</p>
+                <select id="income-category-filter">
+                    <option value="all">Alle Kategorien</option>
+                </select>
+            </div>
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr); margin-bottom: 2rem;">
+                <div class="stat-card">
+                    <h3>Gesamteinnahmen (Gewählt)</h3>
+                    <p id="inc-total" class="positive">0.00 $</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Anzahl Buchungen</h3>
+                    <p id="inc-count">0</p>
+                </div>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Datum</th>
+                            <th>Kategorie</th>
+                            <th>Beschreibung</th>
+                            <th>Betrag</th>
+                        </tr>
+                    </thead>
+                    <tbody id="income-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="expenses-view" class="view-section" style="display: none;">
+            <div class="controls">
+                <p class="description">Wohin fließt unser Geld? Eine Übersicht aller Ausgaben vom Firmenkonto (z.B. Tanken, Werbungskosten, Gehälter).</p>
+                <select id="expense-category-filter">
+                    <option value="all">Alle Kategorien</option>
+                </select>
+            </div>
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr); margin-bottom: 2rem;">
+                <div class="stat-card">
+                    <h3>Gesamtausgaben (Gewählt)</h3>
+                    <p id="exp-total" class="negative">0.00 $</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Anzahl Buchungen</h3>
+                    <p id="exp-count">0</p>
+                </div>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Datum</th>
+                            <th>Kategorie</th>
+                            <th>Beschreibung</th>
+                            <th>Betrag</th>
+                        </tr>
+                    </thead>
+                    <tbody id="expense-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="salaries-view" class="view-section" style="display: none;">
+            <p class="description">Liste aller gezahlten Löhne. Sie können nach Mitarbeiter filtern, um zu sehen, wer wann wie viel bekommen hat.</p>
+            <div class="controls">
+                <select id="salary-person-filter">
+                    <option value="all">Alle Mitarbeiter</option>
+                </select>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Mitarbeiter</th>
+                            <th>Monat</th>
+                            <th>Stunden</th>
+                            <th>Betrag</th>
+                        </tr>
+                    </thead>
+                    <tbody id="salary-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="calculation-view" class="view-section" style="display: none;">
+            <p class="description">Vergleich: Bezahlte Gehälter vs. Geplanter Anspruch. Zeigt auf, was Alice und Luke (CEO/Stellv.) nach dem Modell (60h à 100$) zugestanden hätte, aber oft nicht ausgezahlt wurde.</p>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3>Geplanter Anspruch (Soll)</h3>
+                    <p id="calc-hypo-cost" class="negative">0.00 $</p>
+                    <small>Modell: Max. 6000$ pro Person.</small>
+                </div>
+                <div class="stat-card">
+                    <h3>Tatsächlich Ausgezahlt (Ist)</h3>
+                    <p id="calc-actual-cost" class="negative">0.00 $</p>
+                    <small>Was real überwiesen wurde.</small>
+                </div>
+                 <div class="stat-card" style="border-color: #f59e0b;">
+                    <h3 style="color: #f59e0b; opacity: 1;">Szenario (Operativ)</h3>
+                    <p id="calc-hypo-net" style="color: #f59e0b;">0.00 $</p>
+                    <small>Geschäftserfolg + volle Gehälter.<br>(Ohne Einlagen)</small>
+                </div>
+                 <div class="stat-card" style="border-color: #94a3b8;">
+                    <h3 style="color: #94a3b8; opacity: 1;">Szenario (Real/Cash)</h3>
+                    <p id="calc-hypo-net-equity" style="color: #94a3b8;">0.00 $</p>
+                    <small>Kontostand + volle Gehälter.<br>(Inkl. Einlagen)</small>
+                </div>
+                <div class="stat-card">
+                    <h3>Offene Differenz / Verzicht</h3>
+                    <p id="calc-diff">0.00 $</p>
+                    <small>Betrag, auf den verzichtet wurde (oder zu viel gezahlt).</small>
+                </div>
+            </div>
+            <div class="table-container">                
+                <p style="margin: 1rem; color: #94a3b8; font-size: 0.9em;">Details pro Mitarbeiter und Monat. Berechnet mit max. 60 Stunden x 100 $.</p>                
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Mitarbeiter</th>
+                            <th>Monat</th>
+                            <th>Stunden</th>
+                            <th>Modell-Lohn (Soll)</th>
+                            <th>Echter Lohn (Ist)</th>
+                            <th>Unterschied</th>
+                        </tr>
+                    </thead>
+                    <tbody id="calc-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="monthly-view" class="view-section" style="display: none;">
+            <p class="description">Der Monatsabschluss. Zeigt für jeden Monat Einnahmen, Ausgaben und was am Ende übrig blieb.</p>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Monat</th>
+                            <th>Einnahmen</th>
+                            <th>Ausgaben</th>
+                            <th>Tatsächliche Veränderung<br><small>(Was auf dem Konto passiert ist)</small></th>
+                            <th>Szenario: Konto bei vollen Löhnen<br><small>(Wenn Gehälter voll gezahlt worden wären)</small></th>
+                            
+                            <th style="border-left: 2px solid #334155;">Rein Operatives Ergebnis<br><small>(Gewinn ohne Einlagen)</small></th>
+                            <th>Szenario: Wahre Profitabilität<br><small>(Geschäftsergebnis inkl. voller Löhne)</small></th>
+                        </tr>
+                    </thead>
+                    <tbody id="monthly-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="additional-view" class="view-section" style="display: none;">
+            <p class="description">Manuelle Erfassung zusätzlicher Ausgaben, die nicht über das Firmenkonto liefen (z.B. private Auslagen für Firmenzwecke).</p>
+            <div class="stats-grid" style="grid-template-columns: repeat(2, 1fr); margin-bottom: 2rem;">
+                <div class="stat-card">
+                    <h3>Gesamtsumme</h3>
+                    <p id="additional-total-view" class="negative">0.00 $</p>
+                </div>
+                <div class="stat-card">
+                    <h3>Anzahl Positionen</h3>
+                    <p id="additional-count-view">0</p>
+                </div>
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Datum</th>
+                            <th>Kategorie</th>
+                            <th>Detail</th>
+                            <th>Betrag</th>
+                        </tr>
+                    </thead>
+                    <tbody id="additional-body"></tbody>
+                </table>
+            </div>
+        </main>
+
+        <main id="transactions-view" class="view-section" style="display: none;">
+            <p class="description">Vollständiges Journal aller Kontoaktivitäten. Nutzen Sie die Suchfunktion für Keywords wie 'Tanken', 'Gehalt' oder Namen.</p>
+            <div class="controls">
+                <input type="text" id="search-input" placeholder="Suchen...">
+            </div>
+            <div class="table-container">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Datum</th>
+                            <th>Beschreibung</th>
+                            <th>Details</th>
+                            <th>Betrag</th>
+                        </tr>
+                    </thead>
+                    <tbody id="transaction-body"></tbody>
+                </table>
+            </div>
+        </main>
+        
+        <div id="loading" class="loading">Lade Daten...</div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
