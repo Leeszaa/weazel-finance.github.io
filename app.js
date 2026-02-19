@@ -367,7 +367,8 @@ function getCategory(t) {
 
     if (val > 0) {
         if (text.includes("venture music")) return "Venture Music";
-        if (text.includes("werbung") || text.includes("anzeige") || text.includes("sponsoring")) return "Werbung & Sponsoring";
+        if (text.includes("werbung") || text.includes("anzeige") || text.includes("sponsoring")) return "Sponsoring";
+        if (text.includes("wna") || text.includes("werbeartikel")) return "Werbung";
         if (text.includes("spende")) return "Spenden";
         if (text.includes("event") || text.includes("ticket") || text.includes("eintritt")) return "Events & Tickets";
         if (text.includes("staat") || text.includes("förderung") || text.includes("subvention")) return "Staatliche Förderung";
@@ -379,7 +380,7 @@ function getCategory(t) {
     } else {
         if (text.includes("gehalt") || text.includes("lohn")) return "Gehälter";
         if (text.includes("tanken") || text.includes("kfz") || text.includes("werkstatt") || text.includes("tankstelle")) return "Fahrzeug & Mobilität";
-        if (text.includes("steuer") || text.includes("gebühr")) return "Steuern & Abgaben";
+        if (text.includes("steuer") || text.includes("gebühr")) return "Gebühren";
         if (text.includes("event") || text.includes("party") || text.includes("gewinn")) return "Veranstaltungskosten";
         if (text.includes("kauf") || text.includes("erwerb") || text.includes("shop")) return "Einkäufe & Material";
         
