@@ -1,5 +1,1933 @@
 [
     {
+        "date": "22.03.2026 13:45",
+        "description": "Zahlungseingang von #88643611",
+        "details": "Firma \"Anonym\" (#88643611) - Anonyme Spende",
+        "account_number": "88643611",
+        "amount": "20.000,00 $",
+        "amount_value": 20000.0
+    },
+    {
+        "date": "22.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,0 h)",
+        "account_number": "81828323",
+        "amount": "-1,50 $",
+        "amount_value": -1.5
+    },
+    {
+        "date": "22.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (0,1 h)",
+        "account_number": "10159191",
+        "amount": "-7,50 $",
+        "amount_value": -7.5
+    },
+    {
+        "date": "22.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Leon Vega (#58703342) - Gehalt \"Leon Vega\" (0,1 h)",
+        "account_number": "58703342",
+        "amount": "-10,00 $",
+        "amount_value": -10.0
+    },
+    {
+        "date": "22.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,4 h)",
+        "account_number": "14577995",
+        "amount": "-41,66 $",
+        "amount_value": -41.66
+    },
+    {
+        "date": "21.03.2026 18:34",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Elara Malá\"",
+        "details": "Tanken [WE6PI] - 17 L á 1,40 $",
+        "account_number": null,
+        "amount": "-23,80 $",
+        "amount_value": -23.8
+    },
+    {
+        "date": "21.03.2026 18:30",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Elara Malá\"",
+        "details": "Tanken [74MZ8] - 24 L á 1,40 $",
+        "account_number": null,
+        "amount": "-33,60 $",
+        "amount_value": -33.6
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (1,7 h)",
+        "account_number": "25667109",
+        "amount": "-3,40 $",
+        "amount_value": -3.4
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Leon Vega (#58703342) - Gehalt \"Leon Vega\" (0,5 h)",
+        "account_number": "58703342",
+        "amount": "-33,75 $",
+        "amount_value": -33.75
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (1,1 h)",
+        "account_number": "89896951",
+        "amount": "-88,00 $",
+        "amount_value": -88.0
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (2,0 h)",
+        "account_number": "32241844",
+        "amount": "-146,25 $",
+        "amount_value": -146.25
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (2,2 h)",
+        "account_number": "14577995",
+        "amount": "-223,33 $",
+        "amount_value": -223.33
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (2,2 h)",
+        "account_number": "10159191",
+        "amount": "-324,99 $",
+        "amount_value": -324.99
+    },
+    {
+        "date": "21.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (5,6 h)",
+        "account_number": "81828323",
+        "amount": "-501,00 $",
+        "amount_value": -501.0
+    },
+    {
+        "date": "20.03.2026 22:50",
+        "description": "Lastschrift durch \"Senora Freeway\" im Auftrag von \"Luke Barret\"",
+        "details": "Tanken [WE6PI] - 37 L á 1,40 $",
+        "account_number": null,
+        "amount": "-51,80 $",
+        "amount_value": -51.8
+    },
+    {
+        "date": "19.03.2026 17:45",
+        "description": "Lastschrift durch Elara Malá von \"Weazel News\"",
+        "details": "Firma \"Venture\" (#41840265) - 2026/03/17-02 | BigSizeLanding | Weazel News",
+        "account_number": "41840265",
+        "amount": "-2.660,00 $",
+        "amount_value": -2660.0
+    },
+    {
+        "date": "19.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,3 h)",
+        "account_number": "81828323",
+        "amount": "-28,50 $",
+        "amount_value": -28.5
+    },
+    {
+        "date": "19.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (1,5 h)",
+        "account_number": "32241844",
+        "amount": "-115,00 $",
+        "amount_value": -115.0
+    },
+    {
+        "date": "18.03.2026 20:14",
+        "description": "Lastschrift durch \"Strawberry\" im Auftrag von \"Alea Lynn Walsh\"",
+        "details": "Tanken [7IBYY] - 29 L á 1,40 $",
+        "account_number": null,
+        "amount": "-40,60 $",
+        "amount_value": -40.6
+    },
+    {
+        "date": "18.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (2,4 h)",
+        "account_number": "25667109",
+        "amount": "-4,86 $",
+        "amount_value": -4.86
+    },
+    {
+        "date": "18.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (1,3 h)",
+        "account_number": "81828323",
+        "amount": "-114,00 $",
+        "amount_value": -114.0
+    },
+    {
+        "date": "18.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (1,3 h)",
+        "account_number": "10159191",
+        "amount": "-192,50 $",
+        "amount_value": -192.5
+    },
+    {
+        "date": "18.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (2,9 h)",
+        "account_number": "32241844",
+        "amount": "-215,00 $",
+        "amount_value": -215.0
+    },
+    {
+        "date": "18.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (2,5 h)",
+        "account_number": "14577995",
+        "amount": "-248,33 $",
+        "amount_value": -248.33
+    },
+    {
+        "date": "17.03.2026 21:15",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Igor Levchenko\"",
+        "details": "Tanken [74MZ8] - 28 L á 1,40 $",
+        "account_number": null,
+        "amount": "-39,20 $",
+        "amount_value": -39.2
+    },
+    {
+        "date": "17.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (1,4 h)",
+        "account_number": "32241844",
+        "amount": "-101,25 $",
+        "amount_value": -101.25
+    },
+    {
+        "date": "17.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (1,1 h)",
+        "account_number": "10159191",
+        "amount": "-160,00 $",
+        "amount_value": -160.0
+    },
+    {
+        "date": "17.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (2,1 h)",
+        "account_number": "14577995",
+        "amount": "-205,00 $",
+        "amount_value": -205.0
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Zahlungseingang von Venture Music",
+        "details": "KW11 - [Unternehmen] Weazel News - Ausschüttung",
+        "account_number": null,
+        "amount": "387,10 $",
+        "amount_value": 387.1
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (0,1 h)",
+        "account_number": "11212478",
+        "amount": "-5,00 $",
+        "amount_value": -5.0
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (0,2 h)",
+        "account_number": "75749016",
+        "amount": "-12,75 $",
+        "amount_value": -12.75
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,3 h)",
+        "account_number": "14577995",
+        "amount": "-30,00 $",
+        "amount_value": -30.0
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (1,1 h)",
+        "account_number": "32241844",
+        "amount": "-78,16 $",
+        "amount_value": -78.16
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (1,1 h)",
+        "account_number": "85001077",
+        "amount": "-86,66 $",
+        "amount_value": -86.66
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Peaches Fee Monroe (#14116207) - Gehalt \"Peaches Fee Monroe\" (1,2 h)",
+        "account_number": "14116207",
+        "amount": "-87,50 $",
+        "amount_value": -87.5
+    },
+    {
+        "date": "16.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (1,4 h)",
+        "account_number": "81828323",
+        "amount": "-126,00 $",
+        "amount_value": -126.0
+    },
+    {
+        "date": "15.03.2026 14:50",
+        "description": "Lastschrift durch \"West Eclipse Boulevard x Great Ocean Highway\" im Auftrag von \"Alvoras Braventa\"",
+        "details": "Tanken [AHY5L] - 32 L á 1,40 $",
+        "account_number": null,
+        "amount": "-44,80 $",
+        "amount_value": -44.8
+    },
+    {
+        "date": "15.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (1,6 h)",
+        "account_number": "32241844",
+        "amount": "-114,33 $",
+        "amount_value": -114.33
+    },
+    {
+        "date": "15.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (1,4 h)",
+        "account_number": "75749016",
+        "amount": "-116,16 $",
+        "amount_value": -116.16
+    },
+    {
+        "date": "14.03.2026 18:41",
+        "description": "Lastschrift durch Luke Barret von \"Weazel News\"",
+        "details": "Firma \"Evergreen Flowershop\" (#59845740) - RNR0005_0326",
+        "account_number": "59845740",
+        "amount": "-750,00 $",
+        "amount_value": -750.0
+    },
+    {
+        "date": "14.03.2026 10:26",
+        "description": "Lastschrift durch Luke Barret von \"Weazel News\"",
+        "details": "Firma \"Tsina Grahpics\" (#18869282) - TGD-2026/03/04-01 | Weazel News",
+        "account_number": "18869282",
+        "amount": "-100,00 $",
+        "amount_value": -100.0
+    },
+    {
+        "date": "14.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (0,9 h)",
+        "account_number": "25667109",
+        "amount": "-1,70 $",
+        "amount_value": -1.7
+    },
+    {
+        "date": "14.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (1,6 h)",
+        "account_number": "11212478",
+        "amount": "-118,75 $",
+        "amount_value": -118.75
+    },
+    {
+        "date": "14.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (1,5 h)",
+        "account_number": "81828323",
+        "amount": "-131,99 $",
+        "amount_value": -131.99
+    },
+    {
+        "date": "14.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (1,7 h)",
+        "account_number": "14577995",
+        "amount": "-165,00 $",
+        "amount_value": -165.0
+    },
+    {
+        "date": "14.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (2,4 h)",
+        "account_number": "52448224",
+        "amount": "-192,00 $",
+        "amount_value": -192.0
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,7 h)",
+        "account_number": "25667109",
+        "amount": "-7,30 $",
+        "amount_value": -7.3
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (0,2 h)",
+        "account_number": "32241844",
+        "amount": "-14,00 $",
+        "amount_value": -14.0
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (1,1 h)",
+        "account_number": "75749016",
+        "amount": "-89,25 $",
+        "amount_value": -89.25
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Dorothy Hanna Watson (#13181512) - Gehalt \"Dorothy Hanna Watson\" (1,5 h)",
+        "account_number": "13181512",
+        "amount": "-112,50 $",
+        "amount_value": -112.5
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Robin Sage Sullivan (#44326377) - Gehalt \"Robin Sage Sullivan\" (3,7 h)",
+        "account_number": "44326377",
+        "amount": "-256,66 $",
+        "amount_value": -256.66
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (3,0 h)",
+        "account_number": "81828323",
+        "amount": "-265,50 $",
+        "amount_value": -265.5
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (2,9 h)",
+        "account_number": "14577995",
+        "amount": "-293,33 $",
+        "amount_value": -293.33
+    },
+    {
+        "date": "13.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (3,7 h)",
+        "account_number": "10159191",
+        "amount": "-552,50 $",
+        "amount_value": -552.5
+    },
+    {
+        "date": "12.03.2026 21:42",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Alea Lynn Walsh\"",
+        "details": "Tanken [74MZ8] - 39 L á 1,40 $",
+        "account_number": null,
+        "amount": "-54,60 $",
+        "amount_value": -54.6
+    },
+    {
+        "date": "12.03.2026 20:59",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Alea Lynn Walsh\"",
+        "details": "Tanken [74MZ8] - 37 L á 1,40 $",
+        "account_number": null,
+        "amount": "-51,80 $",
+        "amount_value": -51.8
+    },
+    {
+        "date": "12.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Peaches Fee Monroe (#14116207) - Gehalt \"Peaches Fee Monroe\" (0,0 h)",
+        "account_number": "14116207",
+        "amount": "-2,50 $",
+        "amount_value": -2.5
+    },
+    {
+        "date": "12.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Riko Vong (#10024350) - Gehalt \"Riko Vong\" (0,7 h)",
+        "account_number": "10024350",
+        "amount": "-61,50 $",
+        "amount_value": -61.5
+    },
+    {
+        "date": "12.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (1,4 h)",
+        "account_number": "14577995",
+        "amount": "-143,33 $",
+        "amount_value": -143.33
+    },
+    {
+        "date": "12.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (2,5 h)",
+        "account_number": "32241844",
+        "amount": "-171,50 $",
+        "amount_value": -171.5
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (0,6 h)",
+        "account_number": "43985983",
+        "amount": "-50,66 $",
+        "amount_value": -50.66
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aurelia Penrose (#92526486) - Gehalt \"Aurelia Penrose\" (1,6 h)",
+        "account_number": "92526486",
+        "amount": "-114,33 $",
+        "amount_value": -114.33
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (2,9 h)",
+        "account_number": "32241844",
+        "amount": "-203,00 $",
+        "amount_value": -203.0
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (2,6 h)",
+        "account_number": "85001077",
+        "amount": "-205,33 $",
+        "amount_value": -205.33
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (2,7 h)",
+        "account_number": "52448224",
+        "amount": "-214,66 $",
+        "amount_value": -214.66
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (2,8 h)",
+        "account_number": "75749016",
+        "amount": "-238,00 $",
+        "amount_value": -238.0
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (3,9 h)",
+        "account_number": "89896951",
+        "amount": "-314,66 $",
+        "amount_value": -314.66
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,2 h)",
+        "account_number": "25667109",
+        "amount": "-316,66 $",
+        "amount_value": -316.66
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (3,3 h)",
+        "account_number": "10159191",
+        "amount": "-330,00 $",
+        "amount_value": -330.0
+    },
+    {
+        "date": "11.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (5,5 h)",
+        "account_number": "14577995",
+        "amount": "-553,33 $",
+        "amount_value": -553.33
+    },
+    {
+        "date": "10.03.2026 20:26",
+        "description": "Lastschrift durch \"Strawberry\" im Auftrag von \"Igor Levchenko\"",
+        "details": "Tanken [WE6PI] - 36 L á 1,40 $",
+        "account_number": null,
+        "amount": "-50,40 $",
+        "amount_value": -50.4
+    },
+    {
+        "date": "10.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Robin Sage Sullivan (#44326377) - Gehalt \"Robin Sage Sullivan\" (0,7 h)",
+        "account_number": "44326377",
+        "amount": "-50,16 $",
+        "amount_value": -50.16
+    },
+    {
+        "date": "10.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (0,9 h)",
+        "account_number": "52448224",
+        "amount": "-73,33 $",
+        "amount_value": -73.33
+    },
+    {
+        "date": "10.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (1,0 h)",
+        "account_number": "89896951",
+        "amount": "-80,00 $",
+        "amount_value": -80.0
+    },
+    {
+        "date": "10.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (1,5 h)",
+        "account_number": "11212478",
+        "amount": "-103,83 $",
+        "amount_value": -103.83
+    },
+    {
+        "date": "10.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (2,1 h)",
+        "account_number": "14577995",
+        "amount": "-213,33 $",
+        "amount_value": -213.33
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Zahlungseingang von Venture Music",
+        "details": "KW10 - [Unternehmen] Weazel News - Ausschüttung",
+        "account_number": null,
+        "amount": "466,20 $",
+        "amount_value": 466.2
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Michal Nowak (#41138902) - Gehalt \"Michal Nowak\" (0,2 h)",
+        "account_number": "41138902",
+        "amount": "-15,16 $",
+        "amount_value": -15.16
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (0,2 h)",
+        "account_number": "25667109",
+        "amount": "-21,66 $",
+        "amount_value": -21.66
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (0,2 h)",
+        "account_number": "10159191",
+        "amount": "-21,66 $",
+        "amount_value": -21.66
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (0,3 h)",
+        "account_number": "11212478",
+        "amount": "-22,16 $",
+        "amount_value": -22.16
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,4 h)",
+        "account_number": "81828323",
+        "amount": "-31,50 $",
+        "amount_value": -31.5
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Grace Taylor (#75090623) - Gehalt \"Grace Taylor\" (1,0 h)",
+        "account_number": "75090623",
+        "amount": "-72,33 $",
+        "amount_value": -72.33
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,6 h)",
+        "account_number": "43985983",
+        "amount": "-126,66 $",
+        "amount_value": -126.66
+    },
+    {
+        "date": "09.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (4,0 h)",
+        "account_number": "32241844",
+        "amount": "-276,50 $",
+        "amount_value": -276.5
+    },
+    {
+        "date": "08.03.2026 19:27",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Alea Lynn Walsh\"",
+        "details": "Tanken [7IBYY] - 23 L á 1,40 $",
+        "account_number": null,
+        "amount": "-32,20 $",
+        "amount_value": -32.2
+    },
+    {
+        "date": "08.03.2026 15:20",
+        "description": "Lastschrift durch \"North Rockford Drive x Perth Street\" im Auftrag von \"Igor Levchenko\"",
+        "details": "Tanken [AHY5L] - 13 L á 1,40 $",
+        "account_number": null,
+        "amount": "-18,20 $",
+        "amount_value": -18.2
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Michal Nowak (#41138902) - Gehalt \"Michal Nowak\" (1,7 h)",
+        "account_number": "41138902",
+        "amount": "-119,00 $",
+        "amount_value": -119.0
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aurelia Penrose (#92526486) - Gehalt \"Aurelia Penrose\" (2,0 h)",
+        "account_number": "92526486",
+        "amount": "-140,00 $",
+        "amount_value": -140.0
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Robin Sage Sullivan (#44326377) - Gehalt \"Robin Sage Sullivan\" (2,1 h)",
+        "account_number": "44326377",
+        "amount": "-144,66 $",
+        "amount_value": -144.66
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (2,3 h)",
+        "account_number": "43985983",
+        "amount": "-182,66 $",
+        "amount_value": -182.66
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (2,8 h)",
+        "account_number": "11212478",
+        "amount": "-193,66 $",
+        "amount_value": -193.66
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (5,5 h)",
+        "account_number": "52448224",
+        "amount": "-437,33 $",
+        "amount_value": -437.33
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,6 h)",
+        "account_number": "10159191",
+        "amount": "-460,00 $",
+        "amount_value": -460.0
+    },
+    {
+        "date": "08.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,8 h)",
+        "account_number": "25667109",
+        "amount": "-480,00 $",
+        "amount_value": -480.0
+    },
+    {
+        "date": "07.03.2026 18:03",
+        "description": "Lastschrift durch \"Yin Yang Tankstelle\" im Auftrag von \"Viola McTevish\"",
+        "details": "Tanken [74MZ8] - 31 L á 1,40 $",
+        "account_number": null,
+        "amount": "-43,40 $",
+        "amount_value": -43.4
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (0,0 h)",
+        "account_number": "32241844",
+        "amount": "-2,33 $",
+        "amount_value": -2.33
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Jordan Alexis Rashford (#50433949) - Gehalt \"Jordan Alexis Rashford\" (0,1 h)",
+        "account_number": "50433949",
+        "amount": "-3,75 $",
+        "amount_value": -3.75
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (0,1 h)",
+        "account_number": "89896951",
+        "amount": "-9,33 $",
+        "amount_value": -9.33
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (0,1 h)",
+        "account_number": "25667109",
+        "amount": "-10,00 $",
+        "amount_value": -10.0
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (0,1 h)",
+        "account_number": "85001077",
+        "amount": "-10,66 $",
+        "amount_value": -10.66
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,2 h)",
+        "account_number": "14577995",
+        "amount": "-15,00 $",
+        "amount_value": -15.0
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (0,4 h)",
+        "account_number": "10159191",
+        "amount": "-41,66 $",
+        "amount_value": -41.66
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (0,8 h)",
+        "account_number": "43985983",
+        "amount": "-65,33 $",
+        "amount_value": -65.33
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (2,8 h)",
+        "account_number": "11212478",
+        "amount": "-196,00 $",
+        "amount_value": -196.0
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (2,5 h)",
+        "account_number": "75749016",
+        "amount": "-198,66 $",
+        "amount_value": -198.66
+    },
+    {
+        "date": "07.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (3,7 h)",
+        "account_number": "81828323",
+        "amount": "-333,00 $",
+        "amount_value": -333.0
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Peaches Fee Monroe (#14116207) - Gehalt \"Peaches Fee Monroe\" (0,4 h)",
+        "account_number": "14116207",
+        "amount": "-28,75 $",
+        "amount_value": -28.75
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (1,2 h)",
+        "account_number": "75749016",
+        "amount": "-97,33 $",
+        "amount_value": -97.33
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Jordan Alexis Rashford (#50433949) - Gehalt \"Jordan Alexis Rashford\" (3,2 h)",
+        "account_number": "50433949",
+        "amount": "-242,50 $",
+        "amount_value": -242.5
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (3,1 h)",
+        "account_number": "89896951",
+        "amount": "-249,33 $",
+        "amount_value": -249.33
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Igor Levchenko (#32241844) - Gehalt \"Igor Levchenko\" (3,7 h)",
+        "account_number": "32241844",
+        "amount": "-255,50 $",
+        "amount_value": -255.5
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (3,5 h)",
+        "account_number": "85001077",
+        "amount": "-278,66 $",
+        "amount_value": -278.66
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (3,6 h)",
+        "account_number": "14577995",
+        "amount": "-361,66 $",
+        "amount_value": -361.66
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (5,2 h)",
+        "account_number": "25667109",
+        "amount": "-521,66 $",
+        "amount_value": -521.66
+    },
+    {
+        "date": "06.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (5,2 h)",
+        "account_number": "10159191",
+        "amount": "-523,33 $",
+        "amount_value": -523.33
+    },
+    {
+        "date": "05.03.2026 23:54",
+        "description": "Lastschrift durch \"Yacht Hafen\" im Auftrag von \"Jordan Alexis Rashford\"",
+        "details": "Tanken [51HSE] - 35 L á 10,00 $",
+        "account_number": null,
+        "amount": "-350,00 $",
+        "amount_value": -350.0
+    },
+    {
+        "date": "05.03.2026 23:06",
+        "description": "Lastschrift durch \"North Rockford Drive x Banham Canyon Drive\" im Auftrag von \"Elara Malá\"",
+        "details": "Tanken [WE6PI] - 25 L á 1,40 $",
+        "account_number": null,
+        "amount": "-35,00 $",
+        "amount_value": -35.0
+    },
+    {
+        "date": "05.03.2026 22:46",
+        "description": "Lastschrift durch \"Great Ocean Highway x Procopio Drive\" im Auftrag von \"Alvoras Braventa\"",
+        "details": "Tanken [74MZ8] - 38 L á 1,40 $",
+        "account_number": null,
+        "amount": "-53,20 $",
+        "amount_value": -53.2
+    },
+    {
+        "date": "05.03.2026 22:09",
+        "description": "Lastschrift durch \"North Rockford Drive x Banham Canyon Drive\" im Auftrag von \"Igor Levchenko\"",
+        "details": "Tanken [WE6PI] - 38 L á 1,40 $",
+        "account_number": null,
+        "amount": "-53,20 $",
+        "amount_value": -53.2
+    },
+    {
+        "date": "05.03.2026 21:51",
+        "description": "Lastschrift durch \"Yacht Hafen\" im Auftrag von \"Jordan Alexis Rashford\"",
+        "details": "Tanken [51HSE] - 29 L á 10,00 $",
+        "account_number": null,
+        "amount": "-290,00 $",
+        "amount_value": -290.0
+    },
+    {
+        "date": "05.03.2026 21:43",
+        "description": "Lastschrift durch \"Great Ocean Highway x Procopio Drive\" im Auftrag von \"Alvoras Braventa\"",
+        "details": "Tanken [74MZ8] - 30 L á 1,40 $",
+        "account_number": null,
+        "amount": "-42,00 $",
+        "amount_value": -42.0
+    },
+    {
+        "date": "05.03.2026 20:53",
+        "description": "Lastschrift durch \"Dutch London Street x Innocence Boulevard\" im Auftrag von \"Alice Barret\"",
+        "details": "Tanken [74MZ8] - 39 L á 1,40 $",
+        "account_number": null,
+        "amount": "-54,60 $",
+        "amount_value": -54.6
+    },
+    {
+        "date": "05.03.2026 20:24",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Luke Barret\"",
+        "details": "Tanken [74MZ8] - 32 L á 1,40 $",
+        "account_number": null,
+        "amount": "-44,80 $",
+        "amount_value": -44.8
+    },
+    {
+        "date": "05.03.2026 17:09",
+        "description": "Zahlungseingang von #35368339",
+        "details": "Firma \"Kronjuwelen\" (#35368339) - Sponsoring | Kronjuwelen 03/2026",
+        "account_number": "35368339",
+        "amount": "2.000,00 $",
+        "amount_value": 2000.0
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (0,9 h)",
+        "account_number": "75749016",
+        "amount": "-69,33 $",
+        "amount_value": -69.33
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (2,4 h)",
+        "account_number": "89896951",
+        "amount": "-194,66 $",
+        "amount_value": -194.66
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aurelia Penrose (#92526486) - Gehalt \"Aurelia Penrose\" (3,3 h)",
+        "account_number": "92526486",
+        "amount": "-228,66 $",
+        "amount_value": -228.66
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (3,2 h)",
+        "account_number": "85001077",
+        "amount": "-257,33 $",
+        "amount_value": -257.33
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (3,7 h)",
+        "account_number": "14577995",
+        "amount": "-371,66 $",
+        "amount_value": -371.66
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,0 h)",
+        "account_number": "25667109",
+        "amount": "-398,33 $",
+        "amount_value": -398.33
+    },
+    {
+        "date": "05.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,1 h)",
+        "account_number": "10159191",
+        "amount": "-408,33 $",
+        "amount_value": -408.33
+    },
+    {
+        "date": "04.03.2026 19:30",
+        "description": "Zahlungseingang von #62786972",
+        "details": "Firma \"LS Moments\" (#62786972) - Spende für das Weazel News Team!",
+        "account_number": "62786972",
+        "amount": "5.000,00 $",
+        "amount_value": 5000.0
+    },
+    {
+        "date": "04.03.2026 17:38",
+        "description": "Zahlungseingang von #52322534",
+        "details": "Firma \"Seabreeze\" (#52322534) - Sponsoring | Seabreeze 03/2026",
+        "account_number": "52322534",
+        "amount": "1.000,00 $",
+        "amount_value": 1000.0
+    },
+    {
+        "date": "04.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (0,6 h)",
+        "account_number": "85001077",
+        "amount": "-44,00 $",
+        "amount_value": -44.0
+    },
+    {
+        "date": "04.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (1,7 h)",
+        "account_number": "52448224",
+        "amount": "-128,75 $",
+        "amount_value": -128.75
+    },
+    {
+        "date": "04.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,0 h)",
+        "account_number": "25667109",
+        "amount": "-301,66 $",
+        "amount_value": -301.66
+    },
+    {
+        "date": "04.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,0 h)",
+        "account_number": "10159191",
+        "amount": "-395,00 $",
+        "amount_value": -395.0
+    },
+    {
+        "date": "03.03.2026 08:53",
+        "description": "Zahlungseingang von #59845740",
+        "details": "Firma \"Evergreen Flowershop\" (#59845740) - Sponsoring | Evergreen Flowershop 03/2026",
+        "account_number": "59845740",
+        "amount": "2.000,00 $",
+        "amount_value": 2000.0
+    },
+    {
+        "date": "03.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (2,2 h)",
+        "account_number": "25667109",
+        "amount": "-223,33 $",
+        "amount_value": -223.33
+    },
+    {
+        "date": "03.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (3,2 h)",
+        "account_number": "52448224",
+        "amount": "-238,75 $",
+        "amount_value": -238.75
+    },
+    {
+        "date": "03.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (3,5 h)",
+        "account_number": "11212478",
+        "amount": "-245,00 $",
+        "amount_value": -245.0
+    },
+    {
+        "date": "03.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (2,5 h)",
+        "account_number": "10159191",
+        "amount": "-251,66 $",
+        "amount_value": -251.66
+    },
+    {
+        "date": "02.03.2026 22:08",
+        "description": "Zahlungseingang von #67026845",
+        "details": "Firma \"XGem's Jewelry\" (#67026845) - WNA-02/26-XG",
+        "account_number": "67026845",
+        "amount": "1.220,00 $",
+        "amount_value": 1220.0
+    },
+    {
+        "date": "02.03.2026 21:30",
+        "description": "Zahlungseingang von #39925451",
+        "details": "Firma \"Lock & Load Security\" (#39925451) - Sponsoring | Lock & Load 03/2026",
+        "account_number": "39925451",
+        "amount": "1.000,00 $",
+        "amount_value": 1000.0
+    },
+    {
+        "date": "02.03.2026 21:10",
+        "description": "Zahlungseingang von #37212402",
+        "details": "Firma \"Bayview Lodge Motel and Spa\" (#37212402) - Sponsoring | Bayview Lodge 03/2026",
+        "account_number": "37212402",
+        "amount": "1.000,00 $",
+        "amount_value": 1000.0
+    },
+    {
+        "date": "02.03.2026 20:35",
+        "description": "Lastschrift durch \"Yin Yang Tankstelle\" im Auftrag von \"Viola McTevish\"",
+        "details": "Tanken [74MZ8] - 29 L á 1,40 $",
+        "account_number": null,
+        "amount": "-40,60 $",
+        "amount_value": -40.6
+    },
+    {
+        "date": "02.03.2026 20:32",
+        "description": "Zahlungseingang von #25535451",
+        "details": "Firma \"Paradise Entertainment\" (#25535451) - Sponsoring | Paradise Outdoor 03/2026",
+        "account_number": "25535451",
+        "amount": "1.000,00 $",
+        "amount_value": 1000.0
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Zahlungseingang von Venture Music",
+        "details": "KW09 - [Unternehmen] Weazel News - Ausschüttung",
+        "account_number": null,
+        "amount": "1.273,88 $",
+        "amount_value": 1273.88
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,8 h)",
+        "account_number": "14577995",
+        "amount": "-69,41 $",
+        "amount_value": -69.41
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (0,9 h)",
+        "account_number": "25667109",
+        "amount": "-91,66 $",
+        "amount_value": -91.66
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (1,3 h)",
+        "account_number": "75749016",
+        "amount": "-101,33 $",
+        "amount_value": -101.33
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (2,0 h)",
+        "account_number": "43985983",
+        "amount": "-158,66 $",
+        "amount_value": -158.66
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (3,3 h)",
+        "account_number": "81828323",
+        "amount": "-292,50 $",
+        "amount_value": -292.5
+    },
+    {
+        "date": "02.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,8 h)",
+        "account_number": "10159191",
+        "amount": "-483,33 $",
+        "amount_value": -483.33
+    },
+    {
+        "date": "01.03.2026 20:07",
+        "description": "Lastschrift durch \"Yin Yang Tankstelle\" im Auftrag von \"Alea Lynn Walsh\"",
+        "details": "Tanken [7IBYY] - 27 L á 1,40 $",
+        "account_number": null,
+        "amount": "-37,80 $",
+        "amount_value": -37.8
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,0 h)",
+        "account_number": "43985983",
+        "amount": "-78,66 $",
+        "amount_value": -78.66
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (2,1 h)",
+        "account_number": "52448224",
+        "amount": "-157,50 $",
+        "amount_value": -157.5
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (2,6 h)",
+        "account_number": "81828323",
+        "amount": "-235,50 $",
+        "amount_value": -235.5
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,2 h)",
+        "account_number": "25667109",
+        "amount": "-315,00 $",
+        "amount_value": -315.0
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (3,8 h)",
+        "account_number": "14577995",
+        "amount": "-320,16 $",
+        "amount_value": -320.16
+    },
+    {
+        "date": "01.03.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (5,2 h)",
+        "account_number": "10159191",
+        "amount": "-515,00 $",
+        "amount_value": -515.0
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,7 h)",
+        "account_number": "43985983",
+        "amount": "-138,66 $",
+        "amount_value": -138.66
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (2,3 h)",
+        "account_number": "11212478",
+        "amount": "-157,50 $",
+        "amount_value": -157.5
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (2,4 h)",
+        "account_number": "12346857",
+        "amount": "-170,33 $",
+        "amount_value": -170.33
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (2,4 h)",
+        "account_number": "52448224",
+        "amount": "-182,50 $",
+        "amount_value": -182.5
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (2,5 h)",
+        "account_number": "85001077",
+        "amount": "-196,00 $",
+        "amount_value": -196.0
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (2,2 h)",
+        "account_number": "81828323",
+        "amount": "-199,50 $",
+        "amount_value": -199.5
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,3 h)",
+        "account_number": "25667109",
+        "amount": "-331,66 $",
+        "amount_value": -331.66
+    },
+    {
+        "date": "28.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,5 h)",
+        "account_number": "10159191",
+        "amount": "-453,33 $",
+        "amount_value": -453.33
+    },
+    {
+        "date": "27.02.2026 21:45",
+        "description": "Lastschrift durch \"Strawberry\" im Auftrag von \"Alvoras Braventa\"",
+        "details": "Tanken [WE6PI] - 32 L á 1,40 $",
+        "account_number": null,
+        "amount": "-44,80 $",
+        "amount_value": -44.8
+    },
+    {
+        "date": "27.02.2026 10:57",
+        "description": "Lastschrift durch Luke Barret von \"Weazel News\"",
+        "details": "Firma \"Tsina Grahpics\" (#18869282) - TGD-2026/02/25-01 | Weazel News",
+        "account_number": "18869282",
+        "amount": "-100,00 $",
+        "amount_value": -100.0
+    },
+    {
+        "date": "27.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (1,6 h)",
+        "account_number": "25667109",
+        "amount": "-160,00 $",
+        "amount_value": -160.0
+    },
+    {
+        "date": "27.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (1,9 h)",
+        "account_number": "10159191",
+        "amount": "-191,66 $",
+        "amount_value": -191.66
+    },
+    {
+        "date": "26.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (1,4 h)",
+        "account_number": "25667109",
+        "amount": "-1,35 $",
+        "amount_value": -1.35
+    },
+    {
+        "date": "26.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (1,7 h)",
+        "account_number": "10159191",
+        "amount": "-1,68 $",
+        "amount_value": -1.68
+    },
+    {
+        "date": "26.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (0,4 h)",
+        "account_number": "11212478",
+        "amount": "-25,66 $",
+        "amount_value": -25.66
+    },
+    {
+        "date": "26.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,9 h)",
+        "account_number": "14577995",
+        "amount": "-76,50 $",
+        "amount_value": -76.5
+    },
+    {
+        "date": "25.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,0 h)",
+        "account_number": "25667109",
+        "amount": "-2,98 $",
+        "amount_value": -2.98
+    },
+    {
+        "date": "25.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (3,3 h)",
+        "account_number": "10159191",
+        "amount": "-3,30 $",
+        "amount_value": -3.3
+    },
+    {
+        "date": "25.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ainara Vayentha Sophia Rodriguez (#45739494) - Gehalt \"Ainara Rodriguez\" (1,6 h)",
+        "account_number": "45739494",
+        "amount": "-113,16 $",
+        "amount_value": -113.16
+    },
+    {
+        "date": "25.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (2,8 h)",
+        "account_number": "81828323",
+        "amount": "-255,00 $",
+        "amount_value": -255.0
+    },
+    {
+        "date": "25.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (5,4 h)",
+        "account_number": "14577995",
+        "amount": "-457,58 $",
+        "amount_value": -457.58
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (0,0 h)",
+        "account_number": "25667109",
+        "amount": "0,00 $",
+        "amount_value": 0.0
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (3,5 h)",
+        "account_number": "10159191",
+        "amount": "-3,50 $",
+        "amount_value": -3.5
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,7 h)",
+        "account_number": "14577995",
+        "amount": "-55,25 $",
+        "amount_value": -55.25
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,2 h)",
+        "account_number": "43985983",
+        "amount": "-93,33 $",
+        "amount_value": -93.33
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ruby Calaway (#89896951) - Gehalt \"Ruby Calaway\" (1,5 h)",
+        "account_number": "89896951",
+        "amount": "-120,00 $",
+        "amount_value": -120.0
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (1,9 h)",
+        "account_number": "52448224",
+        "amount": "-141,25 $",
+        "amount_value": -141.25
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (2,0 h)",
+        "account_number": "85001077",
+        "amount": "-156,00 $",
+        "amount_value": -156.0
+    },
+    {
+        "date": "24.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (4,1 h)",
+        "account_number": "11212478",
+        "amount": "-283,50 $",
+        "amount_value": -283.5
+    },
+    {
+        "date": "23.02.2026 21:22",
+        "description": "Lastschrift durch \"Mirrors Edge\" im Auftrag von \"Keoni Máto Kekoá\"",
+        "details": "Tanken [WE6PI] - 29 L á 1,40 $",
+        "account_number": null,
+        "amount": "-40,60 $",
+        "amount_value": -40.6
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Zahlungseingang von Venture Music",
+        "details": "KW08 - [Unternehmen] Weazel News - Ausschüttung",
+        "account_number": null,
+        "amount": "766,26 $",
+        "amount_value": 766.26
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,0 h)",
+        "account_number": "25667109",
+        "amount": "-3,95 $",
+        "amount_value": -3.95
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (6,8 h)",
+        "account_number": "10159191",
+        "amount": "-6,76 $",
+        "amount_value": -6.76
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (0,3 h)",
+        "account_number": "85001077",
+        "amount": "-20,00 $",
+        "amount_value": -20.0
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,4 h)",
+        "account_number": "81828323",
+        "amount": "-32,99 $",
+        "amount_value": -32.99
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,7 h)",
+        "account_number": "43985983",
+        "amount": "-133,33 $",
+        "amount_value": -133.33
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Viola Hirawa (#52448224) - Gehalt \"Viola McTevish\" (4,1 h)",
+        "account_number": "52448224",
+        "amount": "-307,49 $",
+        "amount_value": -307.49
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (4,7 h)",
+        "account_number": "12346857",
+        "amount": "-326,66 $",
+        "amount_value": -326.66
+    },
+    {
+        "date": "23.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (4,1 h)",
+        "account_number": "14577995",
+        "amount": "-347,08 $",
+        "amount_value": -347.08
+    },
+    {
+        "date": "22.02.2026 23:50",
+        "description": "Lastschrift durch \"North Rockford Drive x Perth Street\" im Auftrag von \"Aiden Clarkson\"",
+        "details": "Tanken [74MZ8] - 30 L á 1,40 $",
+        "account_number": null,
+        "amount": "-42,00 $",
+        "amount_value": -42.0
+    },
+    {
+        "date": "22.02.2026 22:50",
+        "description": "Zahlungseingang von #52930457",
+        "details": "Firma \"Weazel News\" (#52930457) - Umbuchung Spendenkonto zu Hauptkonto 02/26",
+        "account_number": "52930457",
+        "amount": "20.000,00 $",
+        "amount_value": 20000.0
+    },
+    {
+        "date": "22.02.2026 22:50",
+        "description": "Lastschrift durch Luke Barret von \"Weazel News\"",
+        "details": "Firma \"Weazel News\" (#59454124) - Umbuchung Spendenkonto zu Hauptkonto 02/26",
+        "account_number": "59454124",
+        "amount": "-20.000,00 $",
+        "amount_value": -20000.0
+    },
+    {
+        "date": "22.02.2026 22:48",
+        "description": "Lastschrift durch \"Alhambra Drive x Marina Drive\" im Auftrag von \"Aiden Clarkson\"",
+        "details": "Tanken [74MZ8] - 45 L á 1,40 $",
+        "account_number": null,
+        "amount": "-63,00 $",
+        "amount_value": -63.0
+    },
+    {
+        "date": "22.02.2026 13:45",
+        "description": "Zahlungseingang von #88643611",
+        "details": "Firma \"Anonym\" (#88643611) - Anonyme Spende",
+        "account_number": "88643611",
+        "amount": "20.000,00 $",
+        "amount_value": 20000.0
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,6 h)",
+        "account_number": "25667109",
+        "amount": "-4,63 $",
+        "amount_value": -4.63
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,7 h)",
+        "account_number": "10159191",
+        "amount": "-4,65 $",
+        "amount_value": -4.65
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Phil Diaz (#43985983) - Gehalt \"Phil Diaz\" (1,3 h)",
+        "account_number": "43985983",
+        "amount": "-105,33 $",
+        "amount_value": -105.33
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (2,0 h)",
+        "account_number": "12346857",
+        "amount": "-138,83 $",
+        "amount_value": -138.83
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (2,2 h)",
+        "account_number": "11212478",
+        "amount": "-156,33 $",
+        "amount_value": -156.33
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (2,2 h)",
+        "account_number": "75749016",
+        "amount": "-172,00 $",
+        "amount_value": -172.0
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (4,1 h)",
+        "account_number": "85001077",
+        "amount": "-326,66 $",
+        "amount_value": -326.66
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (4,5 h)",
+        "account_number": "14577995",
+        "amount": "-383,91 $",
+        "amount_value": -383.91
+    },
+    {
+        "date": "22.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (4,8 h)",
+        "account_number": "81828323",
+        "amount": "-432,00 $",
+        "amount_value": -432.0
+    },
+    {
+        "date": "21.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (0,3 h)",
+        "account_number": "10159191",
+        "amount": "-0,26 $",
+        "amount_value": -0.26
+    },
+    {
+        "date": "21.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (0,5 h)",
+        "account_number": "75749016",
+        "amount": "-37,33 $",
+        "amount_value": -37.33
+    },
+    {
+        "date": "21.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (1,4 h)",
+        "account_number": "81828323",
+        "amount": "-126,00 $",
+        "amount_value": -126.0
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (4,1 h)",
+        "account_number": "10159191",
+        "amount": "-4,13 $",
+        "amount_value": -4.13
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,7 h)",
+        "account_number": "25667109",
+        "amount": "-4,65 $",
+        "amount_value": -4.65
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Joselina Marija Castillo (#75749016) - Gehalt \"Joselina Marija Castillo\" (0,8 h)",
+        "account_number": "75749016",
+        "amount": "-61,33 $",
+        "amount_value": -61.33
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Ainara Vayentha Sophia Rodriguez (#45739494) - Gehalt \"Ainara Rodriguez\" (0,9 h)",
+        "account_number": "45739494",
+        "amount": "-64,16 $",
+        "amount_value": -64.16
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,8 h)",
+        "account_number": "81828323",
+        "amount": "-75,00 $",
+        "amount_value": -75.0
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (1,6 h)",
+        "account_number": "11212478",
+        "amount": "-114,33 $",
+        "amount_value": -114.33
+    },
+    {
+        "date": "20.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alvoras Braventa (#85001077) - Gehalt \"Alvoras Braventa\" (3,1 h)",
+        "account_number": "85001077",
+        "amount": "-249,33 $",
+        "amount_value": -249.33
+    },
+    {
+        "date": "19.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (3,7 h)",
+        "account_number": "10159191",
+        "amount": "-3,68 $",
+        "amount_value": -3.68
+    },
+    {
+        "date": "19.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (3,9 h)",
+        "account_number": "25667109",
+        "amount": "-3,91 $",
+        "amount_value": -3.91
+    },
+    {
+        "date": "19.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (2,2 h)",
+        "account_number": "12346857",
+        "amount": "-154,00 $",
+        "amount_value": -154.0
+    },
+    {
+        "date": "18.02.2026 22:48",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Luke Barret\"",
+        "details": "Tanken [74MZ8] - 35 L á 1,40 $",
+        "account_number": null,
+        "amount": "-49,00 $",
+        "amount_value": -49.0
+    },
+    {
+        "date": "18.02.2026 22:14",
+        "description": "Lastschrift durch \"Clinton Avenue x Fenwell Place\" im Auftrag von \"Luke Barret\"",
+        "details": "Tanken [74MZ8] - 43 L á 1,40 $",
+        "account_number": null,
+        "amount": "-60,20 $",
+        "amount_value": -60.2
+    },
+    {
+        "date": "18.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (0,4 h)",
+        "account_number": "10159191",
+        "amount": "-0,43 $",
+        "amount_value": -0.43
+    },
+    {
+        "date": "18.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (0,2 h)",
+        "account_number": "81828323",
+        "amount": "-16,49 $",
+        "amount_value": -16.49
+    },
+    {
+        "date": "18.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (0,8 h)",
+        "account_number": "14577995",
+        "amount": "-65,16 $",
+        "amount_value": -65.16
+    },
+    {
+        "date": "18.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (1,3 h)",
+        "account_number": "11212478",
+        "amount": "-93,33 $",
+        "amount_value": -93.33
+    },
+    {
+        "date": "18.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (2,9 h)",
+        "account_number": "12346857",
+        "amount": "-199,50 $",
+        "amount_value": -199.5
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Luke Barret (#25667109) - Gehalt \"Luke Barret\" (4,6 h)",
+        "account_number": "25667109",
+        "amount": "-4,56 $",
+        "amount_value": -4.56
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alice Reid (#10159191) - Gehalt \"Alice Barret\" (5,6 h)",
+        "account_number": "10159191",
+        "amount": "-5,56 $",
+        "amount_value": -5.56
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Keoni Máto Kekoá (#11212478) - Gehalt \"Keoni Máto Kekoá\" (1,1 h)",
+        "account_number": "11212478",
+        "amount": "-74,66 $",
+        "amount_value": -74.66
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Alea Lynn Walsh (#81828323) - Gehalt \"Alea Lynn Walsh\" (2,6 h)",
+        "account_number": "81828323",
+        "amount": "-235,50 $",
+        "amount_value": -235.5
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Elara Malá (#14577995) - Gehalt \"Elara Malá\" (3,1 h)",
+        "account_number": "14577995",
+        "amount": "-262,08 $",
+        "amount_value": -262.08
+    },
+    {
+        "date": "17.02.2026 00:00",
+        "description": "Lastschrift durch Weazel News",
+        "details": "Aiden Clarkson (#12346857) - Gehalt \"Aiden Clarkson\" (4,7 h)",
+        "account_number": "12346857",
+        "amount": "-330,16 $",
+        "amount_value": -330.16
+    },
+    {
         "date": "16.02.2026 00:00",
         "description": "Zahlungseingang von Venture Music",
         "details": "KW07 - [Unternehmen] Weazel News - Ausschüttung",
