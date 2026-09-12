@@ -392,6 +392,16 @@ function formatCurrency(val) {
     return new Intl.NumberFormat('de-DE', { style: 'currency', currency: 'USD' }).format(val);
 }
 
+function parseTransactionDate(dateString) {
+    if (!dateString) return 0;
+    const [datePart, timePart = '00:00'] = String(dateString).split(' ');
+    const [day, month, year] = datePart.split('.');
+    const [hours = '00', minutes = '00'] = (timePart || '00:00').split(':');
+    const iso = `${year}-${month}-${day}T${hours}:${minutes}:00`;
+    const parsed = new Date(iso);
+    return Number.isNaN(parsed.getTime()) ? 0 : parsed.getTime();
+}
+
 // ================= RENDER FUNCTIONS =================
 
 function renderDashboard(data) {
@@ -760,18 +770,16 @@ function renderAllTransactions(transactions) {
     const doRender = (term) => {
         tbody.innerHTML = '';
         
-        let result = transactions;
+        let result = [...transactions].sort((a, b) => parseTransactionDate(b.date) - parseTransactionDate(a.date));
         if (term) {
-            result = transactions.filter(t => 
+            result = result.filter(t => 
                 (t.description && t.description.toLowerCase().includes(term)) ||
                 (t.details && t.details.toLowerCase().includes(term)) ||
                 (t.amount && t.amount.toLowerCase().includes(term))
             );
         }
         
-        const page = result.slice(0, 200);
-
-        page.forEach(t => {
+        result.forEach(t => {
             const tr = document.createElement('tr');
             const amountClass = t.amount_value >= 0 ? 'positive' : 'negative';
             
@@ -786,12 +794,6 @@ function renderAllTransactions(transactions) {
             `;
             tbody.appendChild(tr);
         });
-
-        if (result.length > 200) {
-            const tr = document.createElement('tr');
-            tr.innerHTML = `<td colspan="4" style="text-align:center; padding:1rem;">... ${result.length - 200} weitere Transaktionen (Suche verfeinern) ...</td>`;
-            tbody.appendChild(tr);
-        }
     };
 
     doRender('');
